@@ -1,0 +1,16 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+
+# Ignore images and processed files (optional)
+*.png
+*.jpg
+*.jpeg
+processed.png
+
+# Ignore VS Code settings (optional)
+.vscode/
