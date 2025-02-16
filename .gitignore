@@ -6,12 +6,6 @@ __pycache__/
 # Ignore virtual environment
 venv/
 
-# Ignore images and processed files (optional)
-*.png
-*.jpg
-*.jpeg
-processed.png
-
 # Ignore VS Code settings (optional)
 .vscode/
 
